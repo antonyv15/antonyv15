@@ -9,18 +9,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/golfwuttikrai/" target="_blank">
+  <a href="www.linkedin.com/in/antony-valle-813132363" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/gatomic" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/wuttikrai.chainan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-
- <a href=" https://stackoverflow.com/users/29391471/golf-wuttikrai-chainan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=StackOverflow&label=&color=FFA500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="StackOverflow logo"  />
   </a>
  
 </div>
@@ -28,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GolfWC.GolfWC&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=antonyv15.antonyv15&"  />
 </div>
 
 ###
@@ -44,7 +34,7 @@
 
 ###
 
-<p align="left">My name is Golf Wuttikrai Chaina. Based in USA, always excited to connect with like-minded professionals globally!<br><br>🔭 I’m working as a Senior Test Automation Engineer, specializing in automation frameworks, CI/CD integrations, and API & performance testing with tools like Selenium, Serenity BDD, and JMeter.<br><br>📚 I'm currently learning about AI and machine learning, exploring how these technologies can be applied to enhance automation and testing processes.<br><br>⚡ In my free time, I enjoy exploring new tech trends, contributing to open-source projects, and building personal web applications. I'm also passionate about mentoring and sharing knowledge with the next generation of engineers.</p>
+<p align="left">My name is Antony Valle. Based in USA, always excited to connect with like-minded professionals globally!<br><br>🔭 I’m working as a Senior Test Automation Engineer, specializing in automation frameworks, CI/CD integrations, and API & performance testing with tools like Selenium, Serenity BDD, and JMeter.<br><br>📚 I'm currently learning about AI and machine learning, exploring how these technologies can be applied to enhance automation and testing processes.<br><br>⚡ In my free time, I enjoy exploring new tech trends, contributing to open-source projects, and building personal web applications. I'm also passionate about mentoring and sharing knowledge with the next generation of engineers.</p>
 
 ###
 
@@ -130,9 +120,9 @@
 
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=GolfWC&theme=dark&show_icons=true&count_private=true"><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=GolfWC&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=GolfWC&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"></td></tr></tbody></table>
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=antonyv15&theme=dark&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=antonyv15&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=antonyv15&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"></td></tr></tbody></table>
 
 <!--
 **antonyv15/antonyv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
