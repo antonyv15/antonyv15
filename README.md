@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi Welcome 👋</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">My name is Antony Valle. Based in USA, always excited to connect with like-minded professionals globally!<br><br>🔭 I’m working as a Senior Test Automation Engineer, specializing in automation frameworks, CI/CD integrations, and API & performance testing with tools like Selenium, Serenity BDD, and JMeter.<br><br>📚 I'm currently learning about AI and machine learning, exploring how these technologies can be applied to enhance automation and testing processes.<br><br>⚡ In my free time, I enjoy exploring new tech trends, contributing to open-source projects, and building personal web applications. I'm also passionate about mentoring and sharing knowledge with the next generation of engineers.</p>
+<p align="left">My name is Antony Valle. Based in USA, always excited to connect with like-minded professionals globally!<br><br>🔭 I’m working as a Q/A Automation Tester, specializing in automation frameworks, CI/CD integrations, and API & performance testing with tools like Selenium and JMeter.<br><br>📚 I'm currently learning about AI and machine learning, exploring how these technologies can be applied to enhance automation and testing processes.<br><br>⚡ In my free time, I enjoy exploring new tech trends, contributing to open-source projects, and building personal web applications. I'm also passionate about mentoring and sharing knowledge with the next generation of engineers.</p>
 
 ###
 
